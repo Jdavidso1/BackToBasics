@@ -1,0 +1,13 @@
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.exe
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.deps.json
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.runtimeconfig.json
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.runtimeconfig.dev.json
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\bin\Debug\netcoreapp3.1\RomanNumerals.pdb
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csprojAssemblyReference.cache
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.AssemblyInfo.cs
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.dll
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.pdb
+C:\Users\JDAVI\OneDrive\Documents\BACKUPS\ACADEMYPGH\PROJECTS\BackToBasics\RomanNumerals\CSharp\RomanNumerals\obj\Debug\netcoreapp3.1\RomanNumerals.genruntimeconfig.cache
